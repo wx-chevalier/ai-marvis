@@ -2,6 +2,12 @@
 
 Jarvis for my Money，股票、基金、理财的数据小助手
 
+# 投基战略
+
+## 投资组合
+
+三分之一稳健配置、三分之一优选混合（大盘指数）、三分之一行业指数
+
 # About
 
 ## Motivation & Credits
